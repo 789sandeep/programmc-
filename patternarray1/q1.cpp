@@ -1,4 +1,5 @@
 // Online C++ compiler to run C++ program online
+//Q1 - Given two vectors arr1[] and arr2[] of size m and n sorted in increasing order. Merge the two arrays into a single sorted array of size m+n.
 #include <iostream>
 using namespace std;
 int main() {
